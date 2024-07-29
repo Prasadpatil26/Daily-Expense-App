@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/daily-expenses-sharing",
+    "jwtSecret": "B64C76BD84872BF060F0244DD128CD6449C6D6163FA7A1D47A8AF2D8620FA476",
+    "port": 5000
+  }
+  
